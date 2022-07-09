@@ -1,9 +1,9 @@
 ## Portfolio-Website
 
-<a href=" https://a-anand4866.github.io/-portfolio-Avinash-Anand/"><img src=" https://a-anand4866.github.io/-portfolio-Avinash-Anand" alt="LOC"/></a>
-<a href=" https://a-anand4866.github.io/-portfolio-Avinash-Anand/"><img src="https://img.shields.io/github/stars/A-anand4866/portfolio-Avinash-Anand" alt="Stars Badge"/></a>
-<a href="https://github.com/A-anand4866/-portfolio-Avinash-Anand/network/members"><img src="https://img.shields.io/github/forks/A-anand4866/portfolio-Avinash-Anand" alt="Forks Badge"/></a>
-<a href="https://github.com/A-anand4866/portfolio-Avinash-Anand/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/A-anand4866/portfolio-Avinash-Anand?color=2b9348"></a>
+<a href="https://github.com/A-anand4866/-portfolio-Avinash-Anand"><img src="https://sloc.xyz/github/A-anand4866/-portfolio-Avinash-Anand" alt="LOC"/></a>
+<a href="https://github.com/A-anand4866/-portfolio-Avinash-Anand"><img src="https://img.shields.io/github/stars/A-anand4866/-portfolio-Avinash-Anand" alt="Stars Badge"/></a>
+<a href="https://github.com/A-anand4866/-portfolio-Avinash-Anand/network/members"><img src="https://img.shields.io/github/forks/A-anand4866/-portfolio-Avinash-Anand" alt="Forks Badge"/></a>
+<a href="https://github.com/A-anand4866/-portfolio-Avinash-Anand/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/A-anand4866/-portfolio-Avinash-Anand?color=2b9348"></a>
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
