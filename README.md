@@ -1,14 +1,14 @@
 ## Portfolio-Website
 
-<a href="https://github.com/A-anand4866/portfolio-Avinash-Anand"><img src="https://github.com/A-anand4866/portfolio-Avinash-Anand" alt="LOC"/></a>
-<a href="https://github.com/A-anand4866/portfolio-Avinash-Anand"><img src="https://img.shields.io/github/stars/A-anand4866/portfolio-Avinash-Anand" alt="Stars Badge"/></a>
-<a href="https://github.com/A-anand4866/portfolio-Avinash-Anand/network/members"><img src="https://img.shields.io/github/forks/A-anand4866/portfolio-Avinash-Anand" alt="Forks Badge"/></a>
+<a href=" https://a-anand4866.github.io/-portfolio-Avinash-Anand/"><img src=" https://a-anand4866.github.io/-portfolio-Avinash-Anand" alt="LOC"/></a>
+<a href=" https://a-anand4866.github.io/-portfolio-Avinash-Anand/"><img src="https://img.shields.io/github/stars/A-anand4866/portfolio-Avinash-Anand" alt="Stars Badge"/></a>
+<a href="https://github.com/A-anand4866/-portfolio-Avinash-Anand/network/members"><img src="https://img.shields.io/github/forks/A-anand4866/portfolio-Avinash-Anand" alt="Forks Badge"/></a>
 <a href="https://github.com/A-anand4866/portfolio-Avinash-Anand/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/A-anand4866/portfolio-Avinash-Anand?color=2b9348"></a>
 
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
-<a href="https://sauravmukherjee44.github.io/Portfolio-Saurav-Mukherjee/" target="_blank">Visit Now🚀</a>
+<a href=" https://a-anand4866.github.io/-portfolio-Avinash-Anand/" target="_blank">Visit Now🚀</a>
 </h2> 
 
 ## 📌 Tech Stack:
@@ -20,8 +20,8 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome, JSON, etc.
 
 ## 📌 Sneak Peek of Main Page:
-![mockup720](https://github.com/A-anand4866/portfolio-Avinash-Anand/blob/94498338de779cd693065dfb01b8ca1daab1eeef/assests/images/Screenshot%20(214).png)
-![skillsmockup](https://github.com/A-anand4866/portfolio-Avinash-Anand/blob/577c41033c42fcd3568e2ca266dc4511d87f630b/assests/images/Screenshot%20(215).png)
+![mockup720](https://github.com/A-anand4866/-portfolio-Avinash-Anand/blob/main/assests/images/Screenshot%20(214).png)
+![skillsmockup](https://github.com/A-anand4866/-portfolio-Avinash-Anand/blob/main/assests/images/Screenshot%20(215).png)
 
 
 <h2>📬 Contact</h2>
