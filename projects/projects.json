@@ -30,6 +30,16 @@
             "view": "https://a-anand4866.github.io/-portfolio-Avinash-Anand/",
             "code": "https://github.com/A-anand4866/-portfolio-Avinash-Anand"
         }
+    },
+    {
+        "id": 4,
+        "name": "Tic Tac Toe",
+        "desc": "We all know that some of the people like to play tic tac toe game so i try to make the tic tac toe game where you will play whenever you want.",
+        "image": "https://github.com/A-anand4866/-portfolio-Avinash-Anand/blob/main/assests/images/projects/Screenshot%20(71).png",
+        "links": {
+            "view": "https://github.com/A-anand4866/Tic-Tac-Toe/",
+            "code": "https://github.com/A-anand4866/Tic-Tac-Toe"
+        }
     }
     
     
