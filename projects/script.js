@@ -46,7 +46,7 @@ function showProjects(projects) {
     projects.forEach(project => {
         projectsHTML += `
         <div class="box tilt">
-      <img draggable="false" src="${projects.image}" alt="" />
+      <img draggable="false" src="${project.image}" alt="" />
       <div class="content">
         <div class="tag">
         <h3>${project.name}</h3>
